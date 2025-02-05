@@ -1,0 +1,12 @@
+Tecnologias Utilizadas
+
+- Spring Boot: Para criação da aplicação web e gerenciamento de dependências.
+- Banco de Dados H2: Banco de dados em memória para desenvolvimento e testes.
+- Flyway: Para gerenciamento de migrações do banco de dados.
+- JPA (Java Persistence API): Para mapeamento objeto-relacional (ORM).
+- Git: Controle de versão para gerenciamento de mudanças no código.
+- GitHub: Hospedagem do repositório para controle de versão.
+- Spring Data JPA: Para interação com o banco de dados.
+- Maven: Para build e gerenciamento de dependências do projeto.
+- Docker: Para build externo do banco de dados
+- SQL: Manipulação do banco de dados
