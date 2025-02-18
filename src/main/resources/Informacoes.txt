@@ -10,3 +10,4 @@ Tecnologias Utilizadas
 - Maven: Para build e gerenciamento de dependências do projeto.
 - Docker: Para build externo do banco de dados
 - SQL: Manipulação do banco de dados
+
