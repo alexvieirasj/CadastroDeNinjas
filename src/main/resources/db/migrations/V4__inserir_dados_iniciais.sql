@@ -14,7 +14,7 @@ INSERT INTO TB_MISSOES (NOME, DIFICULDADE) VALUES
 -- Inserindo ninjas cadastrados
 INSERT INTO TB_CADASTRO (NOME, EMAIL, IMG_URL, IDADE, MISSOES_ID, RANK) VALUES
 ('Kakashi Hatake', 'kakashi@konoha.com', 'https://exemplo.com/kakashi.jpg', 30, 1, 'S'),
-('Naruto Uzumaki', 'naruto@konoha.com', 'https://exemplo.com/naruto.jpg', 17, 2, 'S'),
+('Naruto Uzumaki', 'naruto@konoha.com', 'https://p2.trrsf.com.br/image/fget/cf/478/481/smart/images.terra.com/2023/02/20/33928796-naruto-personagemeasy-resizecom.jpg', 17, 2, 'S'),
 ('Sasuke Uchiha', 'sasuke@konoha.com', 'https://exemplo.com/sasuke.jpg', 17, 3, 'S'),
 ('Sakura Haruno', 'sakura@konoha.com', 'https://exemplo.com/sakura.jpg', 16, 4, 'A'),
 ('Shikamaru Nara', 'shikamaru@konoha.com', 'https://exemplo.com/shikamaru.jpg', 16, 5, 'A'),
